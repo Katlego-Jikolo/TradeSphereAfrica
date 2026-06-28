@@ -155,7 +155,7 @@ if (isset($_POST['user_registration'])) {
     </div>
     </div>
 
-    <div class= "row mt-5">
+    <div class= "row mt-5 g-4 justify-content-center">
 
         <div class= "col-md-4">
 
@@ -172,8 +172,6 @@ if (isset($_POST['user_registration'])) {
             </div>
 
         </div>
-
-    </div>
 
     <div class= "col-md-4">
 
@@ -204,6 +202,8 @@ if (isset($_POST['user_registration'])) {
             </div>
 
         </div>
+
+    </div>
 
     </div>
 
